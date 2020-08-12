@@ -14,5 +14,6 @@ def menu():
     response += "3. Sair\n"
     return response
 
+
 if __name__ == "__main__":
     app.run()
